@@ -1,0 +1,12 @@
+2022-10-04 09:20:37,834 FATAL   org.example.App - this is a fatal print int Level:100
+2022-10-04 09:20:37,842 ERROR   org.example.App - this is a error print int Level:200
+2022-10-04 09:20:37,842 WARN    org.example.App - this is a warn print int Level:300
+2022-10-04 09:20:37,843 INFO    org.example.App - this is a info print int Level:400
+2022-10-04 09:20:37,843 DEBUG   org.example.App - this is a debug print int Level:500
+2022-10-04 09:20:37,843 TRACE   org.example.App - this is a trace print int Level:600
+2022-11-09 09:22:19,149 FATAL   org.example.App - this is a fatal print int Level:100
+2022-11-09 09:22:19,156 ERROR   org.example.App - this is a error print int Level:200
+2022-11-09 09:22:19,156 WARN    org.example.App - this is a warn print int Level:300
+2022-11-09 09:22:19,157 INFO    org.example.App - this is a info print int Level:400
+2022-11-09 09:22:19,157 DEBUG   org.example.App - this is a debug print int Level:500
+2022-11-09 09:22:19,157 TRACE   org.example.App - this is a trace print int Level:600
